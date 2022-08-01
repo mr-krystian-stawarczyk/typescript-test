@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "Peugot 105",
+		"price": 1629,
+		"imgUrl": "/imgs/peugot.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Gazelle 1960",
+		"price": 1299,
+		"imgUrl": "/imgs/vintage.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Single Speed",
+		"price": 1259,
+		"imgUrl": "/imgs/single.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Carbon Dura Ace",
+		"price": 1239,
+		"imgUrl": "/imgs/carbon.jpg"
+	}
+]
